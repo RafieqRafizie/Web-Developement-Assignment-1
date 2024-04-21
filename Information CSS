@@ -1,0 +1,300 @@
+:root {
+  --default-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Ubuntu, "Helvetica Neue", Helvetica, Arial, "PingFang SC",
+    "Hiragino Sans GB", "Microsoft Yahei UI", "Microsoft Yahei",
+    "Source Han Sans CN", sans-serif;
+}
+
+.main-container {
+  overflow: hidden;
+}
+
+.main-container,
+.main-container * {
+  box-sizing: border-box;
+}
+
+input,
+select,
+textarea,
+button {
+  outline: 0;
+}
+
+.main-container {
+  position: relative;
+  width: 1784px;
+  height: 6695px;
+  margin: 0 auto;
+  font-size: 0px;
+  background: #3f3f3f;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+.link {
+  display: block;
+  position: relative;
+  height: 30px;
+  margin: 100px 0 0 100px;
+  color: #ffffff;
+  font-family: Inter, var(--default-font-family);
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 30px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 377;
+}
+.screen {
+  position: relative;
+  width: 1427px;
+  height: 6222px;
+  margin: 213px 0 0 100px;
+  background: #fefbf5;
+  overflow: hidden;
+}
+.item-green {
+  position: relative;
+  width: 218px;
+  height: 40px;
+  margin: 4847px 0 0 612px;
+  background: linear-gradient(180deg, #190041, #fefbf5);
+  z-index: 379;
+  overflow: hidden;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px 0 #000000;
+}
+.location {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  height: 22px;
+  top: 9px;
+  left: 67px;
+  color: #190041;
+  font-family: Inter, var(--default-font-family);
+  font-size: 17.899999618530273px;
+  font-weight: 700;
+  line-height: 21.6px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 380;
+}
+.gatsby-focus-wrapper {
+  position: absolute;
+  width: 1425px;
+  height: 3996px;
+  top: 0;
+  left: 2px;
+  z-index: 149;
+  overflow: hidden auto;
+}
+.link-emqz {
+  position: relative;
+  width: 145px;
+  height: 45px;
+  margin: 3729px 0 0 28px;
+  z-index: 269;
+  overflow: hidden;
+  border-radius: 8px;
+}
+.faqs {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  height: 24px;
+  top: 22px;
+  left: 16px;
+  color: #190041;
+  font-family: Plus Jakarta Sans, var(--default-font-family);
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  z-index: 270;
+}
+.css-qjpwil {
+  position: relative;
+  width: 1425px;
+  height: 968px;
+  margin: 1377px 0 0 32px;
+  z-index: 271;
+  overflow: visible auto;
+}
+.divider-css-izrw {
+  position: relative;
+  width: 1120px;
+  height: 1px;
+  margin: 0 0 0 64px;
+  background: #e3e0e8;
+  z-index: 375;
+  overflow: hidden;
+}
+.div-css {
+  position: relative;
+  width: 1120px;
+  height: 120px;
+  margin: 80px 0 0 64px;
+  z-index: 364;
+}
+.div-css-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  gap: 16px;
+  position: absolute;
+  width: 448px;
+  height: 120px;
+  top: 0;
+  left: 0;
+  padding: 0 0 6973.688px 0;
+  z-index: 370;
+}
+.your-customer-insights {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 40px;
+  color: #190041;
+  font-family: Plus Jakarta Sans, var(--default-font-family);
+  font-size: 32px;
+  font-weight: 800;
+  line-height: 40px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 371;
+}
+.paragraph-css {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 448px;
+  height: 64px;
+  padding: 0 30.141px 7061.688px 0;
+  z-index: 372;
+}
+.turn-data-insights {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 32px;
+  color: #190041;
+  font-family: Plus Jakarta Sans, var(--default-font-family);
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 32px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 373;
+}
+.customer-decision {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 32px;
+  color: #190041;
+  font-family: Plus Jakarta Sans, var(--default-font-family);
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 32px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 374;
+}
+.div-css-2 {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  gap: 8px;
+  position: absolute;
+  width: 544px;
+  height: 40px;
+  top: 72px;
+  left: 576px;
+  padding: 0 634.594px 0 0;
+  z-index: 365;
+}
+.input-eqdkfh {
+  flex-shrink: 0;
+  position: relative;
+  width: 410.1px;
+  height: 40px;
+  background: rgba(255, 255, 255, 0.5);
+  z-index: 366;
+  overflow: hidden;
+  border-radius: 8px;
+  box-shadow: 0 0 0 0 rgba(25, 0, 65, 0.08);
+}
+.enter-email-address {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  height: 24px;
+  top: 8px;
+  left: 16px;
+  color: rgba(25, 0, 65, 0.5);
+  font-family: Plus Jakarta Sans, var(--default-font-family);
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  z-index: 367;
+  overflow: hidden;
+}
+.link-eqdkfh {
+  flex-shrink: 0;
+  position: relative;
+  width: 125.91px;
+  height: 40px;
+  background: #190041;
+  z-index: 368;
+  border-radius: 8px;
+}
+.try-for-free {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  height: 24px;
+  top: 7.5px;
+  left: 16px;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, var(--default-font-family);
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 369;
+}
+.div-css-3 {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  gap: 32px;
+  position: relative;
+  width: 1120px;
+  height: 648px;
+  margin: 80px 0 0 64px;
+  z-index: 278;
+}
+.div-css-tlvyu {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  width: 256px;
+  height: 648px;
+  padding: 0 0 7109.688px 0;
